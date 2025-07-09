@@ -334,7 +334,7 @@ export struct Options
         LOG("");
 
         LOG("COMMANDS:");
-        LOG("\tdisc          \taggregate mode that does everything (default)");
+        LOG("\tdisc          \tequivalent to \"dump dump::extra protection refine dvdkey split hash info\" (default)");
         LOG("\tdump          \tdumps disc to primary dump files");
         LOG("\tdump::extra   \tdumps extended disc areas such as lead-in and lead-out using specific drives");
         LOG("\trefine        \trefines dump files by re-reading the disc");
